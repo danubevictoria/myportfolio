@@ -158,8 +158,8 @@ a:focus {
 	color:#111;
 	padding: 20px 0px;
 	padding-bottom: 0px;
-	font-family: "Tangerine", sans-serif;
-	font-size: 30px;
+	/*font-family: "Tangerine", sans-serif;*/
+	font-size: 20px;
 	color: #a74752;
 	font-weight: 700;
 	letter-spacing: 1px;
@@ -188,8 +188,8 @@ a:focus {
 }
 
 .sectionTitle{
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 	text-align: center;
 }
 .LessPaddingTitle{
@@ -208,7 +208,7 @@ a:focus {
 	color: #fff !important;
 }
 .sectionTitle h6{
-	font-family: 'Tangerine', sans-serif;
+	/*font-family: 'Tangerine', sans-serif;*/
 	font-size: 14px;
 	line-height: 30px;
 	letter-spacing: 1px;
@@ -286,12 +286,12 @@ a:focus {
 }
 
 .quote h5{
-	font-family: "Tangerine", sans-serif;
+	/*font-family: "Tangerine", sans-serif;*/
 	text-align: right;
 	font-weight: 700;
 	letter-spacing: 0.08em;
 	color:#fff;
-	font-size: 30px;
+	font-size: 20px;
 	margin-top: 10px;
 }
 
@@ -337,8 +337,8 @@ a:focus {
 	font-family: "Montserrat", sans-serif;
 }
 .resumeList span {
-	font-family: 'Tangerine', sans-serif;
-	font-size: 30px;
+	/*font-family: 'Tangerine', sans-serif;*/
+	font-size: 20px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	color: #a74752;
@@ -439,7 +439,7 @@ a:focus {
 }
 .itemHover h6{
 	letter-spacing: 1px;
-	font-size: 25px;
+	font-size: 20px;
   	color: #a74752 ;
   	display: inline-block;
   	margin: 0 auto;
@@ -448,7 +448,7 @@ a:focus {
   	position: absolute;
   	font-weight: 700;
   	bottom:35px;
-  	font-family: "Tangerine", sans-serif;
+  	/*font-family: "Tangerine", sans-serif;*/
 }
 .modal-box {
 	max-width: 550px;
@@ -525,7 +525,7 @@ a:focus {
 	margin-bottom: 20px;
 }
 .servicesContent h6{
-	font-family: 'Tangerine', sans-serif;
+	/*font-family: 'Tangerine', sans-serif;*/
 	font-size: 28px;
 	letter-spacing: 1px;
 	margin: 15px 0px;
@@ -781,7 +781,7 @@ ul.errorMessages li {
 	color:#111;
 }
 .fCopy p{
-	font-family: "Tangerine", sans-serif;
+	/*font-family: "Tangerine", sans-serif;*/
 	font-size: 25px;
 	color:#a74752;
 	letter-spacing: 1px;

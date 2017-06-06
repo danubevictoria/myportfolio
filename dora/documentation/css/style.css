@@ -127,6 +127,12 @@ padding-right: 70px;
   float: left;
   padding-right: 25px;
 }
+
+#profilepic {
+  height: 360px;
+  vertical-align: middle;
+}
+
 /* Customize container */
 @media (min-width: 768px) {
   .container {
