@@ -6,7 +6,7 @@ if ( !defined( "PHP_EOL" ) ) define( "PHP_EOL", "\r\n" );
 
 //// Place your e-mail here
 
-$address = "sandthemes@gmail.com";
+$address = "danubevictoria@gmail.com";
 
 
 //// Don't edit :)
@@ -54,7 +54,7 @@ if ( empty( $comments ) ) {
 //// Place your e-mail here
 
 if ( !empty($error) ) {
-	echo '<div class="errorMessage">Corect the errors and try again!';
+	echo '<div class="errorMessage">Correct the errors and try again!';
 	echo '<ul class="errorMessages">' . $error . '</ul>';
 	echo '</div>';
 
@@ -86,7 +86,7 @@ if ( mail( $address, $e_subject, $msg, $headers ) ) {
 	echo "<fieldset>";
 	echo "<div class='successPage'>";
 	echo "<h1>Your email was sent!</h1>";
-	echo "<p>Thank you <strong>$name</strong>, your message has been submitted to us.</p>";
+	echo "<p>Thank you <strong>$name</strong>, your message has been submitted.</p>";
 	echo "</div>";
 	echo "</fieldset>";
 
